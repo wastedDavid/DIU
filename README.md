@@ -57,8 +57,8 @@ en la experiencia de usuarios del hostel.
 - Cristian: estudiante, vividor, sociable.
 - Paco: anciano, inexperto, ganas de viajar.
 
-![Método UX](img/Cristian P.JPG)
-![Método UX](img/Paco P.JPG)
+![Método UX](img/Cristian_P.JPG)
+![Método UX](img/Paco_P.JPG)
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
