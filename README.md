@@ -93,19 +93,26 @@ de tamaños y cambios de pantalla / zooms.
 Interesantes | Críticas
 ------------ | ----------------
 - Instalaciones visualmente atractivas. | - Las habitaciones podrían ser un poco más grandes y disponer de una pequeña cocina para cocinar.
-
+------------ | ----------------
 - Habitaciones rústicas bonitas. | - Tardaron en responder al teléfono, podrían estar más atentos o disponer de varios teléfonos (en la web solo aparece 1) 
+------------ | ----------------
 - Facilidad de reserva y de ver las posibles habitaciones para esta. | - No se puede pagar en efectivo (en la reserva se pide una tarjeta) ni tampoco después de la estancia.
-- Página más bonita y completa que la competencia. |
-- Situado en pleno centro de Granada. |
+------------ | ----------------
+- Página más bonita y completa que la competencia.
+------------ | ----------------
+- Situado en pleno centro de Granada.
 
 Preguntas | Nuevas ideas
 ------------ | ----------------
 - ¿Hay aparcamiento? | - Que las secciones de la página  no aparezcan cortadas por el encabezado.
+------------ | ----------------
 - ¿Algún lugar que describa las actividades que tienen? | - Tener habitaciones sin literas (pareja de ancianos no se ven capaces de subir a una litera) e individuales.
+------------ | ----------------
 - ¿Qué tiene alrededor? Hay paradas de autobús, tiendas, monumentos? |  - Poder pagar después de la estancia y en efectivo.
-- ¿Se puede ir con mascotas? |
-- ¿Hay zonas de ocio cercanas? |
+------------ | ----------------
+- ¿Se puede ir con mascotas?
+------------ | ----------------
+- ¿Hay zonas de ocio cercanas?
 
 
 
@@ -136,15 +143,21 @@ gastronomía de Granada, haciéndolo emblemático y exclusivo.
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-![Método UX](img/user_map.JPG)
+![Método UX](img/site_map.JPG)
 
 
 Término | Significado     
-Menú | Redirige a una página de información general acerca del restaurante y del menú 
+------------ | ----------------
+Menú | Redirige a una página de información general acerca del restaurante y del menú
+------------ | ----------------
 Sobre nosotros | Redirige a la página de información de la empresa / negocio
+------------ | ----------------
 Contactar | Redirige a la página de contacto de la empresa / negocio
+------------ | ----------------
 Carta | Redirige a la página de los platos ofertados con su información asociada, como alérgenos, precios, ingredientes y fotos (mediante categoría Carta y mediante galería de fotos)
+------------ | ----------------
 Reservar | Redirige a la página para hacer una reserva en el restaurante (botón Reservar y categoría Reservas)
+------------ | ----------------
 Opiniones | Redirige a una página con las opiniones escritas acerca del restaurante, además de poder redactar (categoría Opiniones)
 
 
