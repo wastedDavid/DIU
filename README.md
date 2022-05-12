@@ -92,27 +92,27 @@ de tamaños y cambios de pantalla / zooms.
 
 Interesantes | Críticas
 ------------ | ----------------
-- Instalaciones visualmente atractivas. | - Las habitaciones podrían ser un poco más grandes y disponer de una pequeña cocina para cocinar.
+Instalaciones visualmente atractivas. | Las habitaciones podrían ser un poco más grandes y disponer de una pequeña cocina para cocinar.
 ------------ | ----------------
-- Habitaciones rústicas bonitas. | - Tardaron en responder al teléfono, podrían estar más atentos o disponer de varios teléfonos (en la web solo aparece 1) 
+Habitaciones rústicas bonitas. | Tardaron en responder al teléfono, podrían estar más atentos o disponer de varios teléfonos (en la web solo aparece 1) 
 ------------ | ----------------
-- Facilidad de reserva y de ver las posibles habitaciones para esta. | - No se puede pagar en efectivo (en la reserva se pide una tarjeta) ni tampoco después de la estancia.
+Facilidad de reserva y de ver las posibles habitaciones para esta. | No se puede pagar en efectivo (en la reserva se pide una tarjeta) ni tampoco después de la estancia.
 ------------ | ----------------
-- Página más bonita y completa que la competencia.
+Página más bonita y completa que la competencia.
 ------------ | ----------------
-- Situado en pleno centro de Granada.
+Situado en pleno centro de Granada.
 
 Preguntas | Nuevas ideas
 ------------ | ----------------
-- ¿Hay aparcamiento? | - Que las secciones de la página  no aparezcan cortadas por el encabezado.
+¿Hay aparcamiento? | Que las secciones de la página  no aparezcan cortadas por el encabezado.
 ------------ | ----------------
-- ¿Algún lugar que describa las actividades que tienen? | - Tener habitaciones sin literas (pareja de ancianos no se ven capaces de subir a una litera) e individuales.
+¿Algún lugar que describa las actividades que tienen? | Tener habitaciones sin literas (pareja de ancianos no se ven capaces de subir a una litera) e individuales.
 ------------ | ----------------
-- ¿Qué tiene alrededor? Hay paradas de autobús, tiendas, monumentos? |  - Poder pagar después de la estancia y en efectivo.
+¿Qué tiene alrededor? Hay paradas de autobús, tiendas, monumentos? | Poder pagar después de la estancia y en efectivo.
 ------------ | ----------------
-- ¿Se puede ir con mascotas?
+¿Se puede ir con mascotas?
 ------------ | ----------------
-- ¿Hay zonas de ocio cercanas?
+¿Hay zonas de ocio cercanas?
 
 
 
