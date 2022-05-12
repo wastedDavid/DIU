@@ -27,9 +27,6 @@ Miembros
 
 
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
-
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
@@ -95,43 +92,97 @@ de tamaños y cambios de pantalla / zooms.
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante | Críticas     
+ Interesantes
+- Instalaciones visualmente atractivas.
+- Habitaciones rústicas bonitas.
+- Facilidad de reserva y de ver las posibles habitaciones para esta.
+- Página más bonita y completa que la competencia.
+- Situado en pleno centro de Granada.
+ | Críticas
+- Las habitaciones podrían ser un poco más grandes y disponer de una pequeña cocina para cocinar.
+- Tardaron en responder al teléfono, podrían estar más atentos o disponer de varios teléfonos (en la web solo aparece 1)
+- No se puede pagar en efectivo (en la reserva se pide una tarjeta) ni tampoco después de la estancia.
+
 | ------------- | -------
-  Preguntas | Nuevas ideas
+  Preguntas 
+- ¿Hay aparcamiento? 
+- ¿Algún lugar que describa las actividades que tienen?
+- ¿Qué tiene alrededor? Hay paradas de autobús, tiendas, monumentos?
+- ¿Se puede ir con mascotas?
+- ¿Hay zonas de ocio cercanas?
+| Nuevas ideas
+- Que las secciones de la página  no aparezcan cortadas por el encabezado.
+- Tener habitaciones sin literas
+(pareja de ancianos no se ven capaces de subir a una litera) e individuales.
+- Poder pagar después de la estancia y en efectivo.
+
   
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+El problema que planteamos es que 4U Hostel no ofrecía un lugar de comida
+o restaurante formal en donde sus huéspedes tomaran o comieran durante su estancia.
+
+Planteamos la hipótesis de que, si se incluyera este servicio, incentivaría más
+a querer hospedarse en el local, quedarse más tiempo, no depender de otros servicios
+externos además de ofrecerle a los clientes conocimientos y cultura general de la 
+gastronomía de Granada, haciéndolo emblemático y exclusivo.
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
+![Método UX](img/canvas.jpg)
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![Método UX](img/user_map.jpg)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+![Método UX](img/user_map.jpg)
 
->>> Identificar términos para diálogo con usuario  
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+  Menú | Redirige a una página de información general acerca del restaurante y del menú 
+| ------------- | -------
+Sobre nosotros | Redirige a la página de información de la empresa / negocio
+| ------------- | -------
+Contactar | Redirige a la página de contacto de la empresa / negocio
+| ------------- | -------
+Carta | Redirige a la página de los platos ofertados con su información asociada, como alérgenos, precios, ingredientes y fotos (mediante categoría Carta y mediante galería de fotos)
+| ------------- | -------
+Reservar | Redirige a la página para hacer una reserva en el restaurante (botón Reservar y categoría Reservas)
+| ------------- | -------
+Opiniones | Redirige a una página con las opiniones escritas acerca del restaurante, además de poder redactar (categoría Opiniones)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+
+Hicimos un planteamiento para Web, pero en la práctica 3 reflexionamos sobre ello
+y llegamos a la conclusión de que iba a ser un servicio más accedido a través de movil
+por su rapidez y comodidad de hacerlo por teléfono.
+
+Inicialmente se mostraría la portada. Desde ahí, se podría acceder a la reserva
+o a la carta, además del resto de términos explicados en el Labelling.
+Se accedería mediante los botones/enlaces explicados en el Labelling.
+
+Un ejemplo de navegación sería: Portada -> Carta -> Volver a Portada -> Reservar
+
+Parte de la portada
+![Método UX](img/menu_gastronomico.drawio.png)
+
+Parte de la carta
+![Método UX](img/carta.drawio.png)
+
+Parte de la reserva
+![Método UX](img/reserva.drawio.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)

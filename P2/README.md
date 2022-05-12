@@ -26,4 +26,8 @@
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+En esta etapa hemos aprendido a analizar y reconocer los defectos de 
+un negocio y diseñar aquello que hemos visto que más le faltaba, en este
+caso un Micro-site de un menú gastronómico, que complemente a todos los servicios
+que ya ofrece el negocio.
+Se han diseñado el site-map y bocetos de las páginas web asociadas.
