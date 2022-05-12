@@ -92,15 +92,11 @@ de tamaños y cambios de pantalla / zooms.
 
 Interesantes | Críticas
 ------------ | ----------------
-Instalaciones visualmente atractivas. | Las habitaciones podrían ser un poco más grandes y disponer de una pequeña cocina para cocinar.
------------- | ----------------
-Habitaciones rústicas bonitas. | Tardaron en responder al teléfono, podrían estar más atentos o disponer de varios teléfonos (en la web solo aparece 1) 
------------- | ----------------
-Facilidad de reserva y de ver las posibles habitaciones para esta. | No se puede pagar en efectivo (en la reserva se pide una tarjeta) ni tampoco después de la estancia.
------------- | ----------------
-Página más bonita y completa que la competencia.
------------- | ----------------
-Situado en pleno centro de Granada.
+| Instalaciones visualmente atractivas. | Las habitaciones podrían ser un poco más grandes y disponer de una pequeña cocina para cocinar. |
+| Habitaciones rústicas bonitas. | Tardaron en responder al teléfono, podrían estar más atentos o disponer de varios teléfonos (en la web solo aparece 1) |
+| Facilidad de reserva y de ver las posibles habitaciones para esta. | No se puede pagar en efectivo (en la reserva se pide una tarjeta) ni tampoco después de la estancia. |
+| Página más bonita y completa que la competencia. |
+| Situado en pleno centro de Granada. |
 
 Preguntas | Nuevas ideas
 ------------ | ----------------
