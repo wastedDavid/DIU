@@ -15,7 +15,7 @@ los servicios típicos: reserva, consultar carta, además de poder conocer un po
 más la cultura e historia de los platos.
 
 Logotipo: 
->>> Logo:
+Logo:
 ![Método UX](img/logo.drawio.png)
 
 
@@ -37,8 +37,6 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
-
 Seleccionamos aquellos hostels que eran similares al 4U Hostel (respecto a valoración) y ubicación, pero que tuvieran
 ciertas diferencias de diseño y servicios.
 Elegimos: Broz Hostel, Oh! My Hostel y 4U Hostel.
@@ -54,22 +52,18 @@ en un sitio adecuado. No dispone de seccion FAQs.
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
-
 Quisimos seleccionar personas con perfiles diferentes para poder abarcar más posibilidades
 en la experiencia de usuarios del hostel.
 - Cristian: estudiante, vividor, sociable.
 - Paco: anciano, inexperto, ganas de viajar.
 
-![Método UX](img/Cristian J.jpg)
-![Método UX](img/Paco J.jpg)
+![Método UX](img/Cristian P.JPG)
+![Método UX](img/Paco P.JPG)
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 Decidimos jugar con ese concepto de que eran usuarios diferentes:
 - Crisitan es joven y está acostumbrado a las tecnologías y a este tipo de aventuras, por lo
@@ -83,11 +77,10 @@ por ejemplo, viajar y hospedarse.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento: https://github.com/wastedDavid/DIU/blob/master/P1/Usability-review-template.xls
->>> - Valoración final (numérica): 82
->>> - Comentario sobre la valoración:  En general, es accesible para todos los tipos usuarios, pero un poco
+
+- Enlace al documento: https://github.com/wastedDavid/DIU/blob/master/P1/Usability-review-template.xls
+- Valoración final (numérica): 82
+- Comentario sobre la valoración:  En general, es accesible para todos los tipos usuarios, pero un poco
 tosca para aquellos con conocimientos básicos de web. Interfaz atractiva aunque con algunos defectos
 de tamaños y cambios de pantalla / zooms.
 
