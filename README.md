@@ -1,22 +1,27 @@
 # DIU22
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
-Grupo: DIU1_01AABB.  Curso: 2021/22 
-Updated: 11/2/2022
+Grupo: DIU9_LargoSobreCongo.  Curso: 2021/22 
+Updated: 12/5/2022
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Menú Gastronómico de Granada - 4U Hostel
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Decidimos desarrollar un  menú gastronómico de la comida típica de la provincia para sacarle su 
+máximo potencial y atraer a más clientes a visitar Granada. El microsite ofrece
+los servicios típicos: reserva, consultar carta, además de poder conocer un poco
+más la cultura e historia de los platos.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+>>> Logo:
+![Método UX](img/logo.drawio.png)
+
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Álvaro Vega Romero     :octocat:     
+ * :bust_in_silhouette:  David Correa Rodríguez     :octocat:
 
 ----- 
 
@@ -34,10 +39,31 @@ Miembros
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
+Seleccionamos aquellos hostels que eran similares al 4U Hostel (respecto a valoración) y ubicación, pero que tuvieran
+ciertas diferencias de diseño y servicios.
+Elegimos: Broz Hostel, Oh! My Hostel y 4U Hostel.
+Podemos destacar que:
+- Broz Hostel tiene más facilidades y servicios que 4U
+- Oh! My Hostel presentaba dificultades e inconsistencias en la navegación,
+además de un diseño visual mejorable.
+- 4U presenta algunos bugs visuales y el despliegue de los servicios que ofrece no están
+en un sitio adecuado. No dispone de seccion FAQs.
+
+
+
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+
+Quisimos seleccionar personas con perfiles diferentes para poder abarcar más posibilidades
+en la experiencia de usuarios del hostel.
+- Cristian: estudiante, vividor, sociable.
+- Paco: anciano, inexperto, ganas de viajar.
+
+![Método UX](img/Cristian J.jpg)
+![Método UX](img/Paco J.jpg)
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -45,13 +71,25 @@ Miembros
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
+Decidimos jugar con ese concepto de que eran usuarios diferentes:
+- Crisitan es joven y está acostumbrado a las tecnologías y a este tipo de aventuras, por lo
+que su experiencia de usuario sería previsiblemente buena.
+- Paco es un anciano inexperto y torpe con las tecnologías, por lo que previsiblemente iba a tener
+una experiencia de usuario mala.
+
+Cristian es un usuario bastante común en estas situaciones (vacaciones, escapada). Paco es menos común, aunque
+es cierto que la tercera edad es cuando más tiempo disponible se tiene para hacer otras actividades como,
+por ejemplo, viajar y hospedarse.
+
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento: https://github.com/wastedDavid/DIU/blob/master/P1/Usability-review-template.xls
+>>> - Valoración final (numérica): 82
+>>> - Comentario sobre la valoración:  En general, es accesible para todos los tipos usuarios, pero un poco
+tosca para aquellos con conocimientos básicos de web. Interfaz atractiva aunque con algunos defectos
+de tamaños y cambios de pantalla / zooms.
 
 
 ## Paso 2. UX Design  

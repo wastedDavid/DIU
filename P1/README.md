@@ -1,12 +1,12 @@
 ## DIU - Practica1, entregables
 
 
-
-
 - Desk research: Análisis Competencia 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
+- 2 personas: Cristian y Paco
+- 2 User Journey Map
 - Revisión de Usabilidad 
 
 
-(valoración y conclusiones de esta etapa)
+Primer vistazo al hostel escogido y comparativas con otros.
+Creación de 2 personas ficticias, con su correspondiente historia de usuario.
+Revisión de Usabilidad profundizando en la web del hostel
