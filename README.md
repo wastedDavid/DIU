@@ -2,7 +2,7 @@
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
 Grupo: DIU9_LargoSobreCongo.  Curso: 2021/22 
-Updated: 12/5/2022
+Updated: 19/5/2022
 
 Proyecto: 
 Menú Gastronómico de Granada - 4U Hostel
