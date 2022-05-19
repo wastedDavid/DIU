@@ -179,35 +179,57 @@ Parte de la reserva
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![Método UX](img/moodboard.jpg)
+![Método UX](img/logo.drawio.png)
+
+Decidimos usar los mismos tres colores básicos que la página original para seguir con la estética. Decidimos usar
+unas tipografías finas en concordancia con las fuentes utilizadas en el Hostel. Creamos un eslogan corto pero atractivo,
+e iconos intuitivos y simples.
+
+
+
+La herramienta que hemos utilizado para el logo ha sido draw.io. Hemos partido del logo inicial y le hemos añadido a la derecha otro recuadro negro
+con la palabra "Restaurant", con la tipografía y los colores del moodboard para no romper con la estética original.
+El logo sí se podría utilizar en la cabecera de Twitter, al tener una resolución adecuada.
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
->>> Plantear Landing Page 
+![Método UX](img/landing_page.drawio.png)
+
+
+En el landing page destacar que lo importante (logo y botón de reservar) se puso en la parte central de la pantalla para 
+darle más importancia y recalcarlo. A los lados se pusieron algunas imágenes para clarificar aún más que se trata
+de un restaurante.
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Después de reflexional al respecto, decidimos crear un diseño de móvil ya que pensamos que los clientes
+accederían con mayor frecuencia desde el móvil más que desde un ordenador (al ser un sitio de paso o un sitio
+que se usa en un corto periodo de tiempo)
+
+Usaremos los patrones para el “Getting input” para la parte de introducir los datos para la reserva. Vemos otros patrones para la parte de navegación como “module tabs” para separar las distintas páginas que puede tener nuestra web.
+
+Respecto a Guidelines, al final vamos a hacer la web, pero vista desde un dispositivo móvil Android. Por tanto, seguiremos las guías aportadas por material.io para una vista desde un dispositivo móvil.
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
+![Método UX](img/portada.JPG)
+![Método UX](img/reserva.JPG)
+![Método UX](img/reserva_exito.JPG)
+![Método UX](img/carta.JPG)
 
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
+En la portada añadimos los iconos principales que redirigirán a las funcionalidades principales
+(reserva, opiniones -no implementado-, y carta).
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
 ## Paso 4. Evaluación 
