@@ -10,3 +10,5 @@
 Primer vistazo al hostel escogido y comparativas con otros.
 Creación de 2 personas ficticias, con su correspondiente historia de usuario.
 Revisión de Usabilidad profundizando en la web del hostel
+
+Para ver todo, ver archivo PDF de "Memoria P1".
