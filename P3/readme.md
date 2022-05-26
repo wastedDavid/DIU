@@ -16,3 +16,5 @@
 ![Método UX](../img/reserva.JPG)
 ![Método UX](../img/reserva_exito.JPG)
 ![Método UX](../img/carta.JPG)
+
+https://cloud.protopie.io/p/abcc49bb05?touchHint=true&ui=true&scaleToFit=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&playSpeed=1&playerAppPopup=true

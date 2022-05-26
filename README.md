@@ -226,6 +226,10 @@ Respecto a Guidelines, al final vamos a hacer la web, pero vista desde un dispos
 ![Método UX](img/reserva_exito.JPG)
 ![Método UX](img/carta.JPG)
 
+Si se desea probar el prototipo en vivo:
+
+https://cloud.protopie.io/p/abcc49bb05?touchHint=true&ui=true&scaleToFit=true&cursorType=touch&mockup=true&bgColor=%23F5F5F5&playSpeed=1&playerAppPopup=true
+
 En la portada añadimos los iconos principales que redirigirán a las funcionalidades principales
 (reserva, opiniones -no implementado-, y carta).
 
@@ -240,6 +244,11 @@ En la portada añadimos los iconos principales que redirigirán a las funcionali
 
 >>> Breve descripción del caso asignado con enlace a  su repositorio Github
 
+Microsite que facilita el acceso a toda la información del restaurante,  proporcionando el menú y ofertas exclusivas para la gente del hostal.
+
+
+https://github.com/miguemedina11/DIU
+
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
@@ -249,10 +258,10 @@ En la portada añadimos los iconos principales que redirigirán a las funcionali
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Madre de David  | F/45-60   | Ama de casa  | Intermedia       | -Adulto -Trabajando -Feliz | Android   | A 
+| Madre de Álvaro  | F/45-60   | Abodada  | Baja       | -Adulto -Trabajando -Sorprendida | Android      | A 
+| Hermano de Álvaro  | M/15-30   | Estudiante     | Avanzada        | -Joven -Estudiando -Triste | Apple    | B 
+| Amigo de David  | M/15-30   | Empleado en mantenimiento  | Avanzada       | - Joven - Trabajando - Enfadado| Android | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
