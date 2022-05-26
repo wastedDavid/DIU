@@ -258,10 +258,10 @@ https://github.com/miguemedina11/DIU
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Madre de David  | F/45-60   | Ama de casa  | Intermedia       | -Adulto -Trabajando -Feliz | Android   | A 
-| Madre de Álvaro  | F/45-60   | Abodada  | Baja       | -Adulto -Trabajando -Sorprendida | Android      | A 
-| Hermano de Álvaro  | M/15-30   | Estudiante     | Avanzada        | -Joven -Estudiando -Triste | Apple    | B 
-| Amigo de David  | M/15-30   | Empleado en mantenimiento  | Avanzada       | - Joven - Trabajando - Enfadado| Android | B 
+| Madre de David  | F/45-60   | Ama de casa  | Intermedia       | -Adulto -Trabajando    -Feliz | Android   | A 
+| Madre de Álvaro  | F/45-60   | Abodada  | Baja       | -Adulto -Trabajando  -Sorprendida | Android      | A 
+| Hermano de Álvaro  | M/15-30   | Estudiante     | Avanzada        | -Joven   -Estudiando   -Triste | Apple    | B 
+| Amigo de David  | M/15-30   | Empleado en mantenimiento  | Avanzada       | - Joven  -Trabajando  -Enfadado| Android | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
