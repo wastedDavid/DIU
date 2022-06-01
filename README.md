@@ -244,8 +244,9 @@ En la portada añadimos los iconos principales que redirigirán a las funcionali
 
 >>> Breve descripción del caso asignado con enlace a  su repositorio Github
 
-Microsite que facilita el acceso a toda la información del restaurante,  proporcionando el menú y ofertas exclusivas para la gente del hostal.
 
+DIU3_08 JavierNuñezMiguelMedina (JNMN)
+Microsite que facilita el acceso a toda la información del restaurante,  proporcionando el menú y ofertas exclusivas para la gente del hostal.
 
 https://github.com/miguemedina11/DIU
 
@@ -253,7 +254,16 @@ https://github.com/miguemedina11/DIU
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+Respecto los resultados del role-play:
+Este personaje ficticio será luego representado por mi madre (Maite), ama de casa, casada, madre de 2 hijos. Experiencia intermedia en internet al haber adquirido ordenador y teléfono móvil (Android) con conexión a internet a mediana edad.
+Es una mujer risueña que disfruta de la compañía de sus seres queridos. Las necesidades de cara a la aplicación es poder consultar el menú disponible y, de paso, poder reservar en el sitio.
+
+Este personaje ficticio será luego representado por mi madre (Inmaculada - Madre de Álvaro) ya que ella comparte muchas características con el rol creado (poca experiencia en internet, adulta, ocupada, y sorprendida según el momento). Sus necesidades respecto a la APP son obvias, y es simplemente, poder saber que puede comer en el menú y reservar un día para poder probarlo.
+
+El resultado de este rol, será representado por mi el hermano de Álvaro ya que el resultado fue un joven estudiante el cual está triste por los exámenes. Respecto a sus necesidades, son salir a un restaurante con sus amigos para celebrar el fin de exámenes y disfrutar por el centro de Granada 
+
+Amigo de David
+Este personaje ficticio será luego representado por mi amigo (Daniel), un joven de 21 años actualmente trabajando con ganas de volver a la Universidad. Frustrado por el trabajo, sus necesidades respecto a la aplicación es comer rápidamente en el sitio ya que le pillaba de paso después de salir de la jornada laboral.
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
