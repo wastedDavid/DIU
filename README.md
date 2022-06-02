@@ -272,7 +272,7 @@ Este personaje ficticio será luego representado por mi amigo (Daniel), un joven
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
-----
+
 
 
 ![Método UX](img/resultados.jpg)
@@ -288,7 +288,7 @@ Respecto a las conclusiones que sacamos después de ver los resultados de los cu
 ----
 
 
-https://github.com/wastedDavid/DIU/tree/master/P4/Usability_Report-JNMN
+https://github.com/wastedDavid/DIU/blob/master/P4/Usability_Report-JNMN.pdf
 
 
 El prototipo cumple con los requisitos y funcionalidades básicas. Respecto al menú de navegación no contiene demasiados elementos y la navegación por las distintas páginas es correcta. Presenta iconos y textos intuitivos que hacen al usuario poder cumplir el objetivo sin muchas complicaciones y de forma sencilla. 
