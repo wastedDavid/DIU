@@ -274,8 +274,7 @@ Este personaje ficticio será luego representado por mi amigo (Daniel), un joven
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 
 
-
-![Método UX](img/resultados.jpg)
+![Método UX](img/resultados.JPG)
 
 Respecto a las conclusiones que sacamos después de ver los resultados de los cuestionarios son para 
 - 4U Restaurant (caso A): el prototipo cumple las expectativas, por tanto, hemos conseguido que todo tipo de usuarios pueda ser capaz de usar la aplicación web, independientemente de su experiencia previa. La aplicación es simple, consistente y fácil de usar que como dije, era nuestro objetivo. Destacamos el resultado, siendo mejor valorada nuestra aplicación web.
