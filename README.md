@@ -242,9 +242,6 @@ En la portada añadimos los iconos principales que redirigirán a las funcionali
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
-
 DIU3_08 JavierNuñezMiguelMedina (JNMN)
 Microsite que facilita el acceso a toda la información del restaurante,  proporcionando el menú y ofertas exclusivas para la gente del hostal.
 
@@ -271,50 +268,42 @@ Este personaje ficticio será luego representado por mi amigo (Daniel), un joven
 | Madre de David  | F/45-60   | Ama de casa  | Intermedia       | Adulto, Trabajando, Feliz | Android   | A 
 | Madre de Álvaro  | F/45-60   | Abodada  | Baja       | Adulto, Trabajando, Sorprendida | Android      | A 
 | Hermano de Álvaro  | M/15-30   | Estudiante     | Avanzada        | Joven, Estudiando, Triste | Apple    | B 
-| Amigo de David  | M/15-30   | Empleado en mantenimiento  | Avanzada       | Joven, Trabajando, Enfadado| Android | B 
+| Amigo de David  | M/15-30   | Empleado en limpieza  | Avanzada       | Joven, Trabajando, Enfadado| Android | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+![Método UX](img/resultados.jpg)
+
+Respecto a las conclusiones que sacamos después de ver los resultados de los cuestionarios son para 
+- 4U Restaurant (caso A): el prototipo cumple las expectativas, por tanto, hemos conseguido que todo tipo de usuarios pueda ser capaz de usar la aplicación web, independientemente de su experiencia previa. La aplicación es simple, consistente y fácil de usar que como dije, era nuestro objetivo. Destacamos el resultado, siendo mejor valorada nuestra aplicación web.
+
+- Food4U (caso B): el prototipo cumple con los requisitos y funcionalidades básicas. Respecto al menú de navegación no contiene demasiados elementos y la navegación por las distintas páginas es correcta. Presenta iconos y textos intuitivos que hacen al usuario poder cumplir el objetivo sin muchas complicaciones y de forma sencilla. Algo a tener en cuenta y que es mejorable es la portada de la web, que consideramos que está un poco cargada de texto, haciendo que sea más compleja y menos limpia la web. Por lo demás, y en general, presenta una apariencia y funcionalidad muy correcta.
+
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+
+https://github.com/wastedDavid/DIU/tree/master/P4/Usability_Report-JNMN
 
 
+El prototipo cumple con los requisitos y funcionalidades básicas. Respecto al menú de navegación no contiene demasiados elementos y la navegación por las distintas páginas es correcta. Presenta iconos y textos intuitivos que hacen al usuario poder cumplir el objetivo sin muchas complicaciones y de forma sencilla. 
 
->>> Valoración personal 
+Algo a tener en cuenta y que es mejorable es la portada de la web, que consideramos que está un poco cargada de texto, haciendo que sea más compleja y menos limpia la web. 
 
-
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
-
-
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
+Por lo demás, y en general, presenta una apariencia y funcionalidad muy correcta.
 
 
 
 ## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+Las prácticas en general han sido bastante interesantes ya que nos han hecho ver como las interfaces de usuario son más importatantes de lo que inicialmente pensábamos. Hemos aprendido también acerca de como el usuario piensa y actúa frente a diferentes aplicaciones y webs.
+Muy buenas prácticas, no cambiaríamos nada a rasgos generales. 
 
 
 
