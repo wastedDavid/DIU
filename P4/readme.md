@@ -11,6 +11,7 @@ https://github.com/miguemedina11/DIU
 
 
 * Users 
+
 Respecto los resultados del role-play:
 Este personaje ficticio será luego representado por mi madre (Maite), ama de casa, casada, madre de 2 hijos. Experiencia intermedia en internet al haber adquirido ordenador y teléfono móvil (Android) con conexión a internet a mediana edad.
 Es una mujer risueña que disfruta de la compañía de sus seres queridos. Las necesidades de cara a la aplicación es poder consultar el menú disponible y, de paso, poder reservar en el sitio.
@@ -36,7 +37,7 @@ Este personaje ficticio será luego representado por mi amigo (Daniel), un joven
 * Conclusiones
 
 
-![Método UX](img/resultados.jpg)
+![Método UX](resultados.JPG)
 
 Respecto a las conclusiones que sacamos después de ver los resultados de los cuestionarios son para 
 - 4U Restaurant (caso A): el prototipo cumple las expectativas, por tanto, hemos conseguido que todo tipo de usuarios pueda ser capaz de usar la aplicación web, independientemente de su experiencia previa. La aplicación es simple, consistente y fácil de usar que como dije, era nuestro objetivo. Destacamos el resultado, siendo mejor valorada nuestra aplicación web.
